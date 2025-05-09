@@ -7,6 +7,15 @@
     color: white;
 }
 
+.logo {
+    display: flex;
+    align-items: center;
+}
+
+.logo-img {
+    height: 5em;
+}
+
 
 .nav-list {
     list-style: none;
