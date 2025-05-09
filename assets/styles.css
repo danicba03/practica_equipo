@@ -1,0 +1,26 @@
+.header{
+    background-color: #0A2826;
+}
+
+.header h1 {
+    color: #E5AF24C9;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+
+.contenedor-imagenes{
+    background-color: #4B8F8CEB;
+    display: flex;
+    gap: 1em;
+}
+
+.contenedor-imagenes img {
+    width: 20em;
+    height: auto;
+}
+
+.contenedor-imagenes a {
+    color: #4B8F8CEB;
+    align-content: center;
+}
